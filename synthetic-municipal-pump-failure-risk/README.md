@@ -23,5 +23,5 @@ Run `python generate_dataset.py` with Python 3, NumPy, and pandas installed. The
 
 ## License and source
 
-Original synthetic data generated for this benchmark; no third-party dataset or external source was used. Intended dedication: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), if accepted by the hosting platform's license selector.
+Raw dataset source URL: [CSV](https://raw.githubusercontent.com/25kejdiwalsa-pixel/customer-segmentation/main/synthetic-municipal-pump-failure-risk/eris_pump_failure_raw.csv). Generator: [generate_dataset.py](https://github.com/25kejdiwalsa-pixel/customer-segmentation/blob/main/synthetic-municipal-pump-failure-risk/generate_dataset.py). The data is original and synthetic; no third-party dataset was used. Intended dedication: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/), if accepted by the hosting platform's license selector.
 
