@@ -2,6 +2,6 @@ CC0 1.0 Universal
 
 SPDX-License-Identifier: CC0-1.0
 
-The synthetic dataset and generator code in this folder are dedicated to the public domain under CC0 1.0 Universal.
+The synthetic CSV dataset and the accompanying generator and preparation scripts in this folder are dedicated to the public domain under CC0 1.0 Universal.
 
 Full legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
