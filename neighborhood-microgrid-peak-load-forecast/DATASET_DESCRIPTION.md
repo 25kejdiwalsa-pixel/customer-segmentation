@@ -58,7 +58,7 @@ Demand is generated from weather, solar exposure, occupancy, EV charging, buildi
 
 ## License
 
-No formal open license has been assigned to these files.
+This synthetic dataset and its included generation and preparation scripts are dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). See the [LICENSE](LICENSE) file for the dedication notice.
 
 ## Challenge Preparation
 
