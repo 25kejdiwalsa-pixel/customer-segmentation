@@ -5,6 +5,7 @@ This is an original, fully synthetic dataset generated specifically for this ben
 
 ## Contents
 - `cinema_projection_readiness_raw.csv`: 10,000 rows and 25 columns. One row represents a simulated screening. The binary target `start_delay_over_5m` indicates whether the simulated screening starts more than five minutes late.
+- All values are populated. For unencrypted packages (`encrypted_content_flag=0`), `key_validity_margin_min` is `0.000` as a numeric not-applicable placeholder; interpret that field only when the encryption flag is `1`.
 - Identifiers are synthetic. The file contains operational-style categorical and numeric features, a binary target, and no personal or sensitive records.
 
 ## License
